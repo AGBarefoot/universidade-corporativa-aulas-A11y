@@ -1,2 +1,2 @@
 # universidade-corporativa-aulas-A11y
-Capas das aulas sobre Acessibilidade para capacitação de colaboradores.
+Capas das vídeo-aulas sobre Acessibilidade para capacitação de colaboradores.
